@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jadeddor
-- 👀 I’m interested in coding, of course! Also, cats🐈 (I have 3) and playing guitar~ Dream guitar right now is a Fender Player Plus Nashville Telecaster🎸
-- 🌱 I’m currently learning computer science at UMBC
+- 👋 Hi, I’m Jade
+- 👀 I’m interested in coding, of course! With my background in machine learning and UX/UI deisgn, always trying to create something new.
+- 🌱 I'm completing my degree in Computer Science in Dec 25'
 - 💞️ I’m looking to collaborate on more design and software engineering opportunities
-- 📫 How to reach me: email me! Please, at jdorsai1@umbc.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I speak Haitian Creole, French, Portuguese, and Mandarin 😋
+- 📫 How to reach me: email me! Please, at Jadedor04@gmail.com
+- 😄 Current projects I'm working on:
+- ⚡ Fun fact: On my free time when I'm not coding, I am either playing my guitar or hiking! 
 
 <!---
 Jadeddor/Jadeddor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
