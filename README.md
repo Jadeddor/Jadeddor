@@ -1,5 +1,14 @@
-I like software that feels obvious.
+#  hi🍃
 
-The kind where someone uses it and thinks,
+If you've made it to my GitHub, you're probably curious about what I build.
 
-"Wait...why didn't this exist already?"
+The short version?
+
+I like creating software that quietly makes life a little easier—and looks good while doing it.
+
+Take a look around.
+I hope something makes you think,
+
+"That's actually pretty cool."
+
+Email me, I promise I'll answer1
