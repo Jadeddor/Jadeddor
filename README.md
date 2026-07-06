@@ -1,14 +1,6 @@
 #  hi🍃
 
-If you've made it to my GitHub, you're probably curious about what I build.
+Welcome to my GitHub.
 
-The short version?
-
-I like creating software that quietly makes life a little easier—and looks good while doing it.
-
-Take a look around.
-I hope something makes you think,
-
-"That's actually pretty cool."
-
-Email me, I promise I'll answer1
+Email me for collab or networking, I promise I'll answer~
+Jadedor04@gmail.com
